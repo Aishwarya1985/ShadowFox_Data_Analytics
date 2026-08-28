@@ -65,7 +65,7 @@ Key areas covered:
 - Business Recommendations
 
 ## Repository Structure
-
+```text
 
 ShadowFox_Data_Analytics/
 │
@@ -83,7 +83,7 @@ ShadowFox_Data_Analytics/
 │   └── README.md
 │
 └── README.md
-
+```
 
 
 
