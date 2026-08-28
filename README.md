@@ -66,7 +66,7 @@ Key areas covered:
 
 ## Repository Structure
 
-```text
+
 ShadowFox_Data_Analytics/
 │
 ├── level_1_beginner/
@@ -83,6 +83,9 @@ ShadowFox_Data_Analytics/
 │   └── README.md
 │
 └── README.md
+
+
+
 
 ## Project Outcome
 
