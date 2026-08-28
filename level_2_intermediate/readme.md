@@ -112,7 +112,7 @@ Project Structure
 ```text
 Level_2_Intermediate/
 │
-├── Dataset/
+├── dataset/
 │   └── online_retail_II.xlsx
 │
 ├── notebook/
