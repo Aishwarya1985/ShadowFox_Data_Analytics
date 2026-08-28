@@ -84,8 +84,11 @@ ShadowFox_Data_Analytics/
 │
 └── README.md
 
+## Project Outcome
 
-Project Outcome
-These projects provided practical experience in analysing real-world business datasets, identifying meaningful patterns, creating visual reports, and translating analytical findings into actionable business recommendations.
+The **Beginner and Intermediate levels** provided hands-on experience in **Excel and Python-based data analysis**.
 
-The progression from Beginner to Intermediate Level helped build practical skills in both Excel-based and Python-based data analytics.
+The projects strengthened practical skills in **data cleaning, exploratory data analysis, visualization, customer analysis, revenue analysis, and business insights**.
+
+This experience provided a practical understanding of how raw business data can be transformed into meaningful insights and actionable recommendations.
+
