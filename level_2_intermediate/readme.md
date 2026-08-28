@@ -109,7 +109,7 @@ Business Recommendations
 - Plan inventory and marketing activities around strong sales periods.
 
 Project Structure
-
+```text
 Level_2_Intermediate/
 │
 ├── Dataset/
@@ -119,7 +119,7 @@ Level_2_Intermediate/
 │   └── Online_Retail_II_Analysis.ipynb
 │
 └── README.md
-
+```
 Conclusion
 
 This project provided practical experience in cleaning and analysing a large transactional dataset using Python. The analysis helped identify customer behaviour, revenue patterns, product performance, return trends, and geographic market contribution, while translating the findings into practical business recommendations.
