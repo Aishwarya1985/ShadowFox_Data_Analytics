@@ -109,11 +109,7 @@ Level_1_Beginner/
 │
 ├── dataset/
 │   └── Sample - Superstore.xlsx
-│
-├── notebook/
-│
-├── output/
-│
+││
 ├── Beginner Analysis.xlsx
 │
 └── README.md
