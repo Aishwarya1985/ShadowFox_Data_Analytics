@@ -104,7 +104,7 @@ Business Recommendations
 - Use dashboard-based monitoring for regular business performance tracking.
 
 Project Structure
-
+```text
 Level_1_Beginner/
 │
 ├── dataset/
@@ -117,7 +117,7 @@ Level_1_Beginner/
 ├── Beginner Analysis.xlsx
 │
 └── README.md
-
+```
 Conclusion
 
 This project provided practical experience in data cleaning, data analysis, PivotTables, data visualization, dashboard creation, and business insight generation using Microsoft Excel.
